@@ -430,3 +430,25 @@ footer {
 footer p {
   text-align: center;
 }
+
+ul {
+    list-style-type: disc; 
+    padding-left: 20px; 
+}
+
+.project-first {
+  padding-top: 100px;
+}
+
+.project-second {
+  padding-top: 200px;
+}
+
+.proj {
+    text-align: left;
+}
+
+.profilepic {
+    border-radius: 100%;
+    
+}
